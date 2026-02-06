@@ -1,0 +1,26 @@
+{
+  "task": "Find Python repositories",
+  "status": "partial",
+  "completeness_score": 0,
+  "steps_executed": 0,
+  "steps_successful": 0,
+  "steps_failed": 0,
+  "results": [],
+  "verification": {
+    "error": "LLM service unavailable",
+    "fallback": true,
+    "message": "Using fallback response"
+  },
+  "timestamp": 1770353514.6726773,
+  "execution_time": 5.919170141220093,
+  "agents_used": [
+    "planner",
+    "executor",
+    "verifier"
+  ],
+  "apis_used": [
+    "openai",
+    "github",
+    "weather"
+  ]
+}

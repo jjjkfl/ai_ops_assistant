@@ -1,0 +1,52 @@
+{
+  "task_execution": {
+    "user_request": "ai",
+    "status": "completed",
+    "completeness_score": 100,
+    "steps_total": 1,
+    "steps_successful": 1,
+    "steps_failed": 0
+  },
+  "results": [
+    {
+      "type": "github",
+      "query": "ai",
+      "repositories": [
+        {
+          "name": "ai-project-1",
+          "description": "A sample ai project",
+          "stars": 150,
+          "language": "Python",
+          "url": "https://github.com/example/project1"
+        },
+        {
+          "name": "ai-project-2",
+          "description": "Another ai project",
+          "stars": 89,
+          "language": "JavaScript",
+          "url": "https://github.com/example/project2"
+        },
+        {
+          "name": "ai-project-3",
+          "description": "Advanced ai project",
+          "stars": 256,
+          "language": "Python",
+          "url": "https://github.com/example/project3"
+        }
+      ],
+      "count": 3
+    }
+  ],
+  "verification": {
+    "is_complete": true,
+    "score": 100,
+    "issues": [],
+    "suggestions": [
+      "All good!"
+    ]
+  },
+  "metadata": {
+    "timestamp": 1770320915.9598222,
+    "version": "1.0.0"
+  }
+}

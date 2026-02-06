@@ -1,0 +1,17 @@
+﻿
+
+# Core dependencies
+requests>=2.31.0
+fastapi>=0.104.0
+uvicorn>=0.24.0
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+
+# Optional for enhanced features
+# openai>=1.3.0
+# anthropic>=0.7.0
+
+# For Streamlit UI (optional)
+ streamlit>=1.28.0
+ plotly>=5.18.0
+ pandas>=2.0.0
